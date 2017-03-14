@@ -1,0 +1,13 @@
+Java Script homework 1
+1.	Variable – basically is a container for a value. That value could be a string, a number, a result of a function, takes whatever is assigned to it (via an = ). 
+a.	Ex. var pie = ‘yum’;
+2.	String – a string in JavaScript is a type of value, can be made up of letters and numbers and when defined in a variable lives within “ “ or ‘ ‘ marks.
+3.	Functions – a function is basically like an action, you’re telling the code to do something, called out in the code by the ‘function’ keyword. Has () at the end and the actual function lives within {}
+a.	Functions can also contain parameters they live in the parenthesis of the function. Ie: function(parameter); { the function }. An argument is the real value of a parameter that is passed through the function. Parameters are just names 
+b.	Return – when return is in a function it stops that function and returns that value
+4.	If statements – split can split a function into more than 1 path. If the outcome is a certain way do x, otherwise do y.
+5.	Boolean values- The two Boolean values are true and false, work with problems that only have a yes or no answer to them. 
+
+
+
+
